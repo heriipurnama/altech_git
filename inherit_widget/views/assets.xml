@@ -1,0 +1,7 @@
+<odoo>
+    <template id="assets_backend" inherit_id="web.assets_backend" name="Custom Char Field Assets">
+        <xpath expr="." position="inside">
+            <script type="text/javascript" src="/inherit_widget/static/src/js/char_widget_focus.js"></script>
+        </xpath>
+    </template>
+</odoo>
