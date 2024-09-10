@@ -1,4 +1,4 @@
 ## Directory Structure
 
 - **ERD**: Located in the `ERD/` directory.
-- **Addon**: Located in the `cust_order/` directory.
+- **Addon**:  <br/>`cust_order/`. <br/>`inherit_pos/`, <br/>`inherit_widget/`
